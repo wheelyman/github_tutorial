@@ -28,7 +28,7 @@ minimal guide to get started.
 - [Git/github with RStudio](pages/rstudio.html)
 - [Other (much more thorough) resources](pages/resources.html).
 
-I love git and github.  I use both for keeping track of programming
+I am trying to love git and github.  I use both for keeping track of programming
 projects, papers, talks, and data analyses.  And github has enabled me
 to contribute at least minor things to others' projects, like the
 [D phobos library](https://github.com/D-Programming-Language/phobos)
